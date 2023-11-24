@@ -15,3 +15,4 @@ if (x > 0 && y > 0) {
 } else {
     console.log("El punto esta sobre un eje.");
 }
+//cambios de gisela
